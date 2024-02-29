@@ -1,4 +1,4 @@
-# Machine Learning Security Case Study
+# LLM Code Generation - red team code
 
 ## Introduction
 Welcome to the Machine Learning Security Case! This case study presents a real-world scenario in which you'll be tasked with reproducing various attacks outlined in the paper using the code and data provided in the GitHub repository [violent-python](https://github.com/dessertlab/violent-python). Additionally, you have the opportunity to explore and implement an attack not listed in the paper.
